@@ -1,6 +1,6 @@
 // Configuración de Home. CLIENT_ID se llena con el ID de cliente OAuth de Google Cloud.
 export const CONFIG = {
-  CLIENT_ID: '',
+  CLIENT_ID: '789656987771-f662a4mhrgqph59ukftn19inhh4litk7.apps.googleusercontent.com',
   FIN_ID: '1VX5SVbGV2huCE1jYU9Eb3BuOwuphQaYTUHgbxZdrKnI',
   HOME_SHEET_NAME: 'HOME · datos de la app',
   ALERT_CALENDAR_NAME: 'Home · avisos',

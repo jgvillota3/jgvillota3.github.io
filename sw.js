@@ -1,5 +1,5 @@
 // Service worker: guarda la app para abrir rápido y sin conexión. Los datos siempre vienen de Google.
-const CACHE = 'home-v1';
+const CACHE = 'home-v2';
 const ASSETS = ['./', 'index.html', 'css/app.css', 'manifest.webmanifest', 'icons/icon-192.png', 'icons/icon-512.png',
   'js/app.js', 'js/config.js', 'js/google.js', 'js/data.js', 'js/demo.js', 'js/util.js', 'js/core.js', 'js/icons.js',
   'js/views/hoy.js', 'js/views/finanzas.js', 'js/views/agenda.js', 'js/views/wellness.js', 'js/views/pendientes.js'];
