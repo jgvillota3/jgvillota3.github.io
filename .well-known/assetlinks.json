@@ -1,0 +1,4 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": { "namespace": "android_app", "package_name": "com.jgvillota.home", "sha256_cert_fingerprints": ["89:CF:DD:E9:E5:1E:31:1B:D9:7C:BF:4C:67:B8:80:37:B1:07:3C:A8:88:2E:5E:19:F2:13:F4:5A:70:84:80:30"] }
+}]
